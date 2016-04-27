@@ -1,0 +1,6 @@
+
+Problem 3: Vertex Cover, Greedy Heuristic (10 points)
+Consider the following heuristic to solve the vertex-cover problem. 
+Repeatedly select a vertex of highest degree, and remove all of its incident edges. 
+Give an example to show that this heuristic does not have an approximation ratio of 2.
+CS3510 spring 2016
